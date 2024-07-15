@@ -8,6 +8,7 @@
 <br />
 
 <div align="center">
+ <img src="./images/linuxserver.svg" width=80 height=80>
 <h1 align="center">Self-Hosted</h1>
 </div>
 <br />
